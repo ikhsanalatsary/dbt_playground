@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: public
+    database: dbt_playground
+    tables:
+      - name: doctor_specialist_raw
+        # add table configuration here
