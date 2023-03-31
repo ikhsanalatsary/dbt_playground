@@ -1,5 +1,8 @@
 Welcome to your new dbt project!
 
+### PREREQUISITE
+modify `profiles.yml` as in your local postgreSQL
+
 ### Using the starter project
 
 Try running the following commands:
